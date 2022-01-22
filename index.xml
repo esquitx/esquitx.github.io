@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ddesotto\raw</title>
-    <link>https://esquitx.github.io/</link>
+    <link>https://ddesotto.com/</link>
     <description>Recent content on ddesotto\raw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© ddesotto</copyright>
-    <lastBuildDate>Sat, 22 Jan 2022 17:02:51 +0100</lastBuildDate><atom:link href="https://esquitx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jan 2022 17:02:51 +0100</lastBuildDate><atom:link href="https://ddesotto.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On things #1 - On NFT Incomprehension, Crossing the Chasm</title>
-      <link>https://esquitx.github.io/posts/on-things-#1-on-nft-incomprehension-crossing-the-chasm/</link>
+      <link>https://ddesotto.com/posts/on-nft-incomprehension/</link>
       <pubDate>Sat, 22 Jan 2022 17:02:51 +0100</pubDate>
       
-      <guid>https://esquitx.github.io/posts/on-things-#1-on-nft-incomprehension-crossing-the-chasm/</guid>
+      <guid>https://ddesotto.com/posts/on-nft-incomprehension/</guid>
       <description>&lt;div class=&#34;callout&#34;&gt;
 	&lt;div class=&#34;callout-inner&#34;&gt;
     ⚠️ DISCLAIMER. NFTs are a very risky asset. This is not financial advice
@@ -64,10 +64,10 @@
     
     <item>
       <title>diegodesotto\raw - the Why</title>
-      <link>https://esquitx.github.io/posts/diegodesottoraw-thewhy/</link>
+      <link>https://ddesotto.com/posts/diegodesottoraw-thewhy/</link>
       <pubDate>Wed, 05 Jan 2022 13:21:14 +0100</pubDate>
       
-      <guid>https://esquitx.github.io/posts/diegodesottoraw-thewhy/</guid>
+      <guid>https://ddesotto.com/posts/diegodesottoraw-thewhy/</guid>
       <description>&lt;h1 id=&#34;why-ddesottoraw&#34;&gt;Why ddesotto\raw&lt;/h1&gt;
 &lt;p&gt;I tried &lt;strong&gt;WordPress&lt;/strong&gt;. Now I&amp;rsquo;m here, which should be enough of a summary on how my &lt;strong&gt;WordPress&lt;/strong&gt; experience went (spoiler alert, do not recommend).&lt;/p&gt;
 &lt;p&gt;My blog, &lt;strong&gt;bigdtalks.com&lt;/strong&gt;, lasted one eternal year. While live, it hosted 15 posts with an average of 100 views/post, which is not bad, considering I had no prior experience. I built the site on Elementor (who calls that customizable?) and used BlueHost for buying the domain and hosting. Overall, the site came to a cost of around &lt;strong&gt;$160&lt;/strong&gt;. You might be wondering how much the ROI was. Well, the answer is not that good.&lt;/p&gt;
